@@ -1,3 +1,5 @@
+#python program for weather app which takes number of days as input ad gives temperature and sky conditions as output
+
 import streamlit as st
 import plotly.express as px
 from b_end import get_data
